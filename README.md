@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @KoTMD (Constantin Polinski)
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate in a good company to create a future in programming
+- 📫 How to reach me:
+- WhatsApp: +4917662954538
+- eMail: constantin.polinski@gmail.com
